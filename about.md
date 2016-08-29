@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Je suis un étudiant actuellement en Licence Informatique à l'UFR MIM de
+Metz.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Je suis passionné de programmation et de nouvelles technologies.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Vous pourrez voir sur ce blog mes divers projets personnels.
+
+**RECHERCHE DE STAGE:** Je recherche actuellement un stage pour la fin 
+de ma licence. Ce stage aurait lieu aux environs du mois d'Avril (plus
+de précisions bientôt). 
+
+Si vous recherchez un développeur travailleur et curieux vous pouvez
+me contactez [ici](mailto:edouard.willisseck@gmail.com).
+
+Mes langages de prédilections sont Python et Java.
+
