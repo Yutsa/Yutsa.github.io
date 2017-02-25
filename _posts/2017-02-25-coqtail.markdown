@@ -27,4 +27,50 @@ Le projet devait être codé en utilisant HTML, PHP et JavaScript.
 ![Page d'accueil]({{ site.url }}/assets/img/coqtail/home.png)
 
 Un système de recherce en ajoutant des ingrédients obligatoire et
-interdit est également présent. 
+interdit est également présent.
+
+# Page d'affichage des cocktails
+
+Sur cette page les cocktails sont affiché par catégorie d'ingrédients. 
+On peut ajouter des cocktails à son panier depuis cette page ou bien
+retirer des recettes déjà présentes dans le panier.
+
+![Affichage cocktails]({{ site.url }}/assets/img/coqtail/cocktails.png)
+
+# Recherche de recettes
+
+Ceci est le moteur de recherche de recettes de cocktails. On peut
+ajouter des ingrédients que l'on veut et ceux que l'on ne veut pas. Et
+les cocktails répondant à ces critères sont affichés.
+
+![Recherche cocktails]({{ site.url }}/assets/img/coqtail/search.png)
+
+# Panier
+
+Le panier affiche les cocktails ajouté avec la possibilité de les
+supprimer ou d'annuler la suppression.
+
+Comme expliqué précédemment le panier d'un utilisateur non connecté est
+transféré à son compte lorsqu'il se connecte ou s'inscrit.
+
+![Panier]({{ site.url }}/assets/img/coqtail/basket.png)
+
+# Connexion et inscription
+
+On peut évidemment s'inscrire et se connecter au site.
+
+![Inscription]({{ site.url }}/assets/img/coqtail/register.png)
+
+![Connexion]({{ site.url }}/assets/img/coqtail/connect.png)
+
+# Profil utilisateur
+
+L'utilisateur peut modifier ses informations en étant connecté.
+
+![Profile 2]({{ site.url }}/assets/img/coqtail/profile1.png)
+
+![Profile 1]({{ site.url }}/assets/img/coqtail/profile2.png)
+
+# Code source
+
+Le code de ce projet est disponible sur [GitHub](https://github.com/Yutsa/Coqtail)
