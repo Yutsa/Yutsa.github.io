@@ -3,6 +3,7 @@ layout: post
 title:  "PoGo-Spotted"
 date:   2016-08-29 17:35:07 +0200
 categories: jekyll update
+permalink: /pogo-spotted
 ---
 
 PoGo-Spotted
