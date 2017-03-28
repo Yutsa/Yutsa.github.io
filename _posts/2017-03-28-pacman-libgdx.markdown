@@ -4,6 +4,7 @@ title:  "Pacman"
 date:   2017-03-28 22:36:07 +0200
 categories: jekyll update
 permalink: /pacman-libgdx
+recap: Une implémentation de Pacman en Java avec LibGDX.
 ---
 
 Pacman avec LibGDX

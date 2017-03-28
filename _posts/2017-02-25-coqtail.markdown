@@ -4,6 +4,7 @@ title:  "Coq'tail"
 date:   2017-02-25
 categories: jekyll update
 permalink: /coqtail
+recap: Un site responsive dynamique en HTML5/CSS et PHP.
 ---
 
 
