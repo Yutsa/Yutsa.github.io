@@ -4,19 +4,17 @@ title: À propos de moi
 permalink: /about/
 ---
 
-Je suis un étudiant actuellement en Licence Informatique à l'UFR MIM de
-Metz.
+Je suis un étudiant actuellement en Licence Informatique à l'Université de Lorraine, plus précisément à l'UFR MIM de Metz. 
 
 Je suis passionné de programmation et de nouvelles technologies.
 
 Vous pourrez voir sur ce blog mes divers projets personnels.
 
-**RECHERCHE DE STAGE:** Je recherche actuellement un stage pour la fin 
-de ma licence. Ce stage aurait lieu aux environs du mois d'Avril (plus
-de précisions bientôt). 
-
+**Alternance année 2017-2018**: Je recherche actuellement une alternance
+pour effectuer mon Master Informatique dans la région de Metz.
 Si vous recherchez un développeur travailleur et curieux vous pouvez
 me contactez [ici](mailto:edouard.willisseck@gmail.com).
 
-Mes langages de prédilections sont Python et Java.
+Mes langages de prédilections sont `Java`, `C++`, `HTML/CSS/JS`
+et `Python`.
 
