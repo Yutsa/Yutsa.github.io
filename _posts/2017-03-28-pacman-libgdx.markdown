@@ -14,7 +14,7 @@ Lors d'un cours de Développement Mobile en troisième année de Licence
 Informatique j'ai eu l'occasion de développer un jeu Pacman en Java en
 utilisant la bibliothèque LibGDX.
 
-![Pacman]({{ site.baseurl }}/assets/img/pacman/pacman.png)
+![Pacman]({{ site.baseurl }}/assets/img/pacman/pacman.png){: .center-image }
 
 Ce projet m'a permis de m'habituer un peu plus à l'utilisation de Java.
 
